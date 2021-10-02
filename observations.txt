@@ -1,0 +1,7 @@
+Widgets are visual components of a window, like buttons and textboxes.
+In fltk, we extend the Fl_Button class to add new event handling member functions.
+Using inheritence, we can customise the Fl_Button class.
+
+Static variables are useful in holding variables which would otherwise
+be global without being attached to a class. This makes the program more
+organised.
