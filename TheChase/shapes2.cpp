@@ -1,6 +1,4 @@
 //Code written by Hardik Rajpal for lab5 of CS154.
-//The game isn't complete yet. 
-//I am using cout to display changes because the program crashes whenever I use labels of boxes.
 //The aim is to maximize the score, which increases every second in multiple related to the 
 //green circle's radius.
 //The red squares are obstacles that we have to avoid touching.
